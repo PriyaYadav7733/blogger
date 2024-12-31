@@ -1,0 +1,38 @@
+.container {
+    background: #ffffff;
+    text-align: center;
+  }
+
+  .heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: #3f51b5;
+  }
+
+  .subheading {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #616161;
+    margin-bottom: 24px;
+  }
+
+  .features {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 32px;
+  }
+
+  .feature {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 1rem;
+    color: #424242;
+  }
+  a{
+    background-color: #3f51b5;
+  }
+

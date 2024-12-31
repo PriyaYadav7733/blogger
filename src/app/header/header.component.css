@@ -1,0 +1,20 @@
+.spacer {
+    justify-content: end;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+  }
+  
+  .active-link {
+    font-weight: bold;
+    border-bottom: 2px solid white;
+  }
+
+  mat-toolbar-row{
+    display:flex;
+    justify-content: space-between;
+  } 
+  
