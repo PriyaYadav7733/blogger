@@ -7,13 +7,13 @@
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 16px;
-    color: #3f51b5;
+    color: #56749A;
   }
 
   .subheading {
     font-size: 1.25rem;
     font-weight: 400;
-    color: #616161;
+    color: #374c69;
     margin-bottom: 24px;
   }
 
@@ -30,9 +30,9 @@
     align-items: center;
     gap: 12px;
     font-size: 1rem;
-    color: #424242;
+    color: #1d2633;
   }
   a{
-    background-color: #3f51b5;
+    background-color: #1d2633;
   }
 

@@ -16,5 +16,10 @@
   mat-toolbar-row{
     display:flex;
     justify-content: space-between;
+    background-color: #56749A;
   } 
+
+  mat-toolbar{
+    width: 100%;
+  }
   
